@@ -1,3 +1,3 @@
 module.exports = {
- publicPath: '/candicethesis/'
+ publicPath: '/candicethesis2019/'
 }
